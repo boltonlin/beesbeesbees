@@ -1,5 +1,5 @@
 var Grub = function() {
-  this.species = 'Grub'
+  this.species = 'grub'
   this.age = 0;
   this.color = 'pink';
   this.food = 'jelly';

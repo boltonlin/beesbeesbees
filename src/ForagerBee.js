@@ -1,5 +1,6 @@
 var ForagerBee = function() {
   Bee.call(this);
+  this.species = 'forager bee';
   this.age = 10;
   this.job = 'find pollen';
   this.canFly = true;
